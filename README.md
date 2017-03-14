@@ -1,6 +1,6 @@
 # Facebook Account Kit and Firebase Authentication Sample
 This Android project a sample of using Facebook Account Kit with Firebase Authentication for this
-tutorial.
+[tutorial](https://medium.com/@shepeliev/how-to-make-facebook-account-kit-and-firebase-authentication-get-along-db3e9e89a595).
 
 ## Before Building
 You should set Cloud Functions Endpoint in the ```app/build.gradle```
